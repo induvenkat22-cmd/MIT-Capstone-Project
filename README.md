@@ -4,6 +4,8 @@
 **MIT Professional Education | Applied Artificial Intelligence and Data Science | Capstone Project**
 
 ---
+## Project Presentation link : 
+https://github.com/induvenkat22-cmd/MIT-Capstone-Project/blob/main/Presentation.pdf
 
 ## 1. Project Overview
 
