@@ -1,5 +1,5 @@
 # Real-Time Retail Feedback Intelligence
-### A Generative AI-Powered Customer Feedback Intelligence Solution for Fashion Retail
+### A Generative AI-Powered Customer Feedback Intelligence Solution for a Fashion Retailer
 
 **MIT Professional Education | Applied Artificial Intelligence and Data Science | Capstone Project**
 
