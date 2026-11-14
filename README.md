@@ -241,4 +241,110 @@ The evaluation compared six prompt versions across three prompting strategies.
 - Few-Shot V2 achieved the highest average judge score of 0.9843.
 - Enhanced prompt versions generally demonstrated improvements over their respective baseline versions.
 - Few-Shot prompting demonstrated strong performance in generating consistent and structured outputs.
-- FS2 was identified as
+- FS2 was identified as the recommended prompting approach based on the benchmark evaluation.
+
+**Recommended Approach: Few-Shot V2 (FS2)**
+
+The results demonstrate the importance of prompt engineering and iterative refinement in improving the quality and consistency of Generative AI outputs.
+
+## 9. Product Recommendation Classification Results
+
+A separate Generative AI-powered classification approach was developed to predict whether customers recommend a product.
+
+The model achieved an overall classification accuracy of **88%**.
+
+Performance was evaluated using standard classification metrics, including precision, recall, F1-score, and confusion matrix.
+
+### Key Observations
+
+- The classifier demonstrated strong performance in identifying recommended products.
+- It achieved perfect precision and high recall for the recommended class, according to the project evaluation.
+- Most classification errors occurred in mixed-sentiment reviews where customers expressed product concerns but still recommended the product.
+- These findings highlight the challenge of distinguishing overall sentiment from actual product recommendation behavior.
+
+The results demonstrate the potential of LLM-based classification while highlighting areas for further improvement.
+
+## 10. Business Insights and Recommendations
+
+The project translates customer feedback patterns into practical business recommendations.
+
+### Short-Term Recommendations (3–6 Months)
+
+**1. Improve Product Descriptions and Visuals**
+
+Enhance sizing charts, fit guides, product descriptions, and color-accurate images to reduce mismatches between customer expectations and actual products.
+
+**2. Establish a Customer Feedback Loop**
+
+Use post-purchase surveys and automated review analysis to identify recurring concerns involving fabric quality, fit, and delivery.
+
+**3. Optimize Inventory for Popular Products**
+
+Combine sales trends with customer sentiment insights to identify high-demand products and improve inventory planning.
+
+### Long-Term Recommendations (6–12 Months)
+
+**1. Develop Personalized Shopping Experiences**
+
+Use customer preferences and feedback insights to support more personalized product recommendations.
+
+**2. Strengthen Quality Control and Supplier Management**
+
+Address recurring fabric and product quality concerns through improved supplier relationships and stricter quality checks.
+
+**3. Enhance Delivery Operations**
+
+Improve logistics partnerships, delivery tracking, and communication to strengthen the overall customer experience.
+
+## 11. Business Value
+
+The proposed Generative AI pipeline demonstrates how retailers can move from manual, reactive feedback processing towards automated and insight-driven decision-making.
+
+Potential business benefits include:
+
+- Faster identification of customer concerns.
+- Improved understanding of customer sentiment.
+- Better product quality and merchandising decisions.
+- More personalized customer engagement.
+- Improved responsiveness to customer feedback.
+- More informed inventory and operational decisions.
+- Greater visibility into customer satisfaction trends.
+- Improved understanding of the cost implications of Generative AI adoption.
+
+## 12. Conclusion
+
+Real-Time Retail Feedback Intelligence demonstrates how Generative AI and prompt engineering can transform unstructured customer reviews into meaningful business intelligence.
+
+By combining Feature Engineering, Exploratory Data Analysis, sentiment analysis, structured feedback extraction, AI-assisted benchmark testing, API cost analysis, and recommendation classification, the project presents a practical approach to understanding customer needs and supporting retail decision-making.
+
+The benchmark evaluation identified Few-Shot V2 as the strongest-performing prompting strategy, while the product recommendation classifier achieved an overall accuracy of 88%.
+
+The project highlights the potential of LLM-powered customer feedback intelligence to help fashion retailers improve product offerings, strengthen customer relationships, and build more responsive, data-driven retail operations.
+
+## 13. Repository Information
+
+This public repository serves as the project showcase and documentation space.
+
+It is intended to contain:
+
+- Project overview and business context.
+- Project objectives and methodology.
+- Dataset information.
+- System architecture and workflow diagrams.
+- Benchmark evaluation results.
+- Model performance findings.
+- API usage and cost analysis.
+- Business insights and recommendations.
+- Final capstone presentation.
+
+**Source Code:** The complete implementation, Jupyter notebooks, and supporting development files are maintained separately in a private GitHub repository.
+
+---
+
+### Project Information
+**Project Title:** Real-Time Retail Feedback Intelligence
+**Academic Program:** Professional Certificate in Applied Artificial Intelligence and Data Science
+**Institution:** MIT Professional Education
+**Project Type:** Capstone Project
+**Domain:** Generative AI | Retail Analytics | Customer Intelligence
+**Key Focus Areas:** Feature Engineering | Exploratory Data Analysis | Sentiment Analysis | Prompt Engineering | LLM Evaluation | Business Intelligence
